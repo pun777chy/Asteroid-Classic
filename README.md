@@ -10,7 +10,7 @@ https://github.com/pun777chy/Asteroid-Classic/assets/6859320/3fbc7376-9076-41d6-
 - In the current build, Addressables have been deactivated, but they are functional in the editor for testing purposes, thanks to the "Use Asset Database" setting in Play Mode Script.
 - A unit test was conducted to verify the binding of the AsteroidSpawner class (additional tests may be added in the future).
 - The project features a singular Controller responsible for managing the Game States and updating the corresponding Views.
-- ****PLEASE IGNORE THE UI. UI programming is my experties but I had to plan to implement UI gracefully.****
+- ****PLEASE IGNORE THE UI. UI programming is my experties but my priority was not UI.****
 
 
    **PACKAGES ADDED**

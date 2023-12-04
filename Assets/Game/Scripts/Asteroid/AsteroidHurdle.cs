@@ -108,6 +108,7 @@ namespace Asteroids.Asteroid
             for (int i = 0; i < 2; i++)
             {
                 AsteroidHurdle asteroid = asteroidFactory.Create();
+                asteroid.transform.position = transform.position;
                 asteroid.Size = size - 1;
             }
         }
